@@ -1,0 +1,23 @@
+{
+    "id": null,
+    "createdAt": "2020-11-18T11:52:53.838Z",
+    "name": {
+        "first": "Bertie",
+        "last": "Williamson"
+    },
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sawrb/128.jpg",
+    "index": 0,
+    "guid": "3ffe4c99-4b3f-4a1a-94dd-451222153f2c",
+    "isAvailable": true,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Henry_Winkler_Fonzie_1977.JPG",
+    "email": "bertie.williamson@company.co.uk",
+    "about": "Dolore aliquip id tempor officia labore labore ullamco laboris. Duis occaecat minim Lorem cupidatat in id reprehenderit commodo do ipsum minim eiusmod. Fugiat dolore laboris et dolore esse. Veniam nisi nisi duis est. Lorem mollit ex labore magna in nulla. Aliqua in voluptate excepteur adipisicing veniam. Minim esse labore proident dolor dolor proident aliquip.",
+    "bornDate": "1982-06-07 01:29:54.506",
+    "tags": [
+        "culpa",
+        "adipisicing",
+        "aliqua",
+        "minim"
+    ],
+    "favoriteFruit": "banana"
+}
